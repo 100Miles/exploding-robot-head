@@ -55,4 +55,23 @@ body {
   top: 0;
 }
 
+.robot:hover .robot-head-left {
+  position: absolute;
+  right: 75%;
+  top: 0;
+}
+
+.robot:hover .robot-head-right {
+  position: absolute;
+  left: 75%;
+  top: 0;
+}
+
+.robot:hover .robot-brain {
+  width: 46px;
+  position: absolute;
+  left: 136px;
+  top: 20%;
+}
+
 /* have my code simon, be gentle */
